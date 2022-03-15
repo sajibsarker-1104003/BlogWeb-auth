@@ -1,0 +1,20 @@
+{
+  "name": "blogweb-auth",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "firebase": "^9.6.8",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "sass": "^1.49.9",
+    "vite": "^2.8.0"
+  }
+}
